@@ -19,6 +19,7 @@ namespace Lesson08
                 app.UseHsts();
             }
 
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
